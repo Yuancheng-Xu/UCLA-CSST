@@ -1,0 +1,1 @@
+This is an attempt to adapt WGCNA to time series: since observations within a patient are correlated, for each patient we compute the distance of time series and average them to get distance between features and transform it into similarity and build TOM and cluster the features.
